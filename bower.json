@@ -1,0 +1,23 @@
+{
+  "name": "Virada Geek",
+  "version": "1.0",
+  "authors": [
+    "FelipeBarrosCruz <felipe.barros.pt@gmail.com>"
+  ],
+  "description": "ViradaGeek App",
+  "main": "js/app.js",
+  "keywords": [
+    "app",
+    "viradageek",
+    "MEAN"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/FelipeBarrosCruz/viradageek",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
